@@ -1,5 +1,5 @@
 # Our default config file.
-baseURL = "http://localhost"
+baseURL = "https://amschon90.github.io/
 languageCode = "en-us"
 title = "Amschon90"
 theme = "minimal"
